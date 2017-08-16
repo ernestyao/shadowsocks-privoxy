@@ -26,6 +26,8 @@ forward-socks5  .dropbox*.com 127.0.0.1:7070  .
 forward-socks5  .*google*.* 127.0.0.1:7070  .
 forward-socks5  173.244.217.42 127.0.0.1:7070  .
 forward-socks5  209.95.56.60 127.0.0.1:7070  .
+forward-socks5  config.getsync.com 127.0.0.1:7070  .
+forward-socks5  config.resilio.com 127.0.0.1:7070  .
 
 forwarded-connect-retries  0
 
